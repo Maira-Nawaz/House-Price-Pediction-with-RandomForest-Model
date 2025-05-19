@@ -1,1 +1,16 @@
 # House-Price-Pediction-with-RandomForest-Model
+
+This project was part of the [Kaggle House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) competition. The objective was to predict the sale price of houses using a variety of features like lot size, year built, neighborhood, and overall quality.
+
+In this version, I implemented a **Random Forest Regressor** for modeling. The workflow included:
+
+*  Data preprocessing and handling missing values
+  
+*  Feature selection and encoding
+  
+*  Model training using Random Forest
+
+*  Evaluation using **log-transformed RMSE**, as per competition metric
+
+
+I achieved a **Kaggle leaderboard score of 0.15308 (Log RMSE)** using the Random Forest model.
